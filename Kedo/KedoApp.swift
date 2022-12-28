@@ -1,4 +1,4 @@
-//
+
 //  KedoApp.swift
 //  Kedo
 //
@@ -11,7 +11,7 @@ import SwiftUI
 struct KedoApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            AppView()
         }
     }
 }
